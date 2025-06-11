@@ -1,0 +1,585 @@
+{
+    "data analyst": {
+        "missions": [
+            "Collecter, nettoyer et analyser des données",
+            "Concevoir des tableaux de bord interactifs",
+            "Aider à la prise de décision stratégique"
+        ],
+        "competences": [
+            "Python",
+            "SQL",
+            "Power BI",
+            "Statistiques",
+            "Pandas",
+            "Communication"
+        ],
+        "salaire_moyen": "1875 €"
+    },
+    "developpeur web": {
+        "missions": [
+            "Développer des interfaces utilisateur",
+            "Optimiser les performances des sites web",
+            "Travailler en collaboration avec les designers UX/UI"
+        ],
+        "competences": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Node.js",
+            "Git"
+        ],
+        "salaire_moyen": "1950 €"
+    },
+    "chef de projet": {
+        "missions": [
+            "Planifier et suivre les projets",
+            "Coordonner les équipes",
+            "Assurer la livraison dans les délais"
+        ],
+        "competences": [
+            "Gestion de projet",
+            "Communication",
+            "Agilité",
+            "Jira",
+            "MS Project"
+        ],
+        "salaire_moyen": "2025 €"
+    },
+    "data scientist": {
+        "missions": [
+            "Construire des modèles prédictifs",
+            "Explorer des ensembles de données complexes",
+            "Présenter des insights business"
+        ],
+        "competences": [
+            "Machine Learning",
+            "Python",
+            "SQL",
+            "Statistiques avancées",
+            "Scikit-learn"
+        ],
+        "salaire_moyen": "2100 €"
+    },
+    "community manager": {
+        "missions": [
+            "Créer et animer des communautés en ligne",
+            "Gérer les réseaux sociaux",
+            "Analyser les performances des campagnes"
+        ],
+        "competences": [
+            "Réseaux sociaux",
+            "Rédaction web",
+            "Canva",
+            "SEO",
+            "Analytics"
+        ],
+        "salaire_moyen": "2175 €"
+    },
+    "designer graphique": {
+        "missions": [
+            "Créer des supports visuels",
+            "Décliner des chartes graphiques",
+            "Collaborer avec les équipes marketing"
+        ],
+        "competences": [
+            "Photoshop",
+            "Illustrator",
+            "Créativité",
+            "InDesign",
+            "Figma"
+        ],
+        "salaire_moyen": "2250 €"
+    },
+    "infirmier": {
+        "missions": [
+            "Soigner les patients",
+            "Administrer les médicaments",
+            "Assister les médecins"
+        ],
+        "competences": [
+            "Écoute",
+            "Rigueur",
+            "Anatomie",
+            "Gestes d'urgence",
+            "Éthique médicale"
+        ],
+        "salaire_moyen": "2325 €"
+    },
+    "comptable": {
+        "missions": [
+            "Gérer les comptes d'une entreprise",
+            "Préparer les bilans",
+            "Effectuer les déclarations fiscales"
+        ],
+        "competences": [
+            "Comptabilité générale",
+            "Fiscalité",
+            "Excel",
+            "Sage",
+            "Analyse financière"
+        ],
+        "salaire_moyen": "2400 €"
+    },
+    "enseignant": {
+        "missions": [
+            "Préparer les cours",
+            "Transmettre les savoirs",
+            "Évaluer les élèves"
+        ],
+        "competences": [
+            "Pédagogie",
+            "Organisation",
+            "Connaissance disciplinaire",
+            "Communication"
+        ],
+        "salaire_moyen": "2475 €"
+    },
+    "psychologue": {
+        "missions": [
+            "Écouter et accompagner les patients",
+            "Faire des diagnostics",
+            "Proposer des thérapies"
+        ],
+        "competences": [
+            "Empathie",
+            "Analyse",
+            "Psychopathologie",
+            "Éthique",
+            "Communication"
+        ],
+        "salaire_moyen": "2550 €"
+    },
+    "electricien": {
+        "missions": [
+            "Installer des équipements électriques",
+            "Diagnostiquer les pannes",
+            "Faire la maintenance"
+        ],
+        "competences": [
+            "Schéma électrique",
+            "Normes",
+            "Sécurité",
+            "Branchement",
+            "Lecture de plan"
+        ],
+        "salaire_moyen": "2625 €"
+    },
+    "plombier": {
+        "missions": [
+            "Installer des équipements sanitaires",
+            "Réparer des fuites",
+            "Entretenir les installations"
+        ],
+        "competences": [
+            "Soudure",
+            "Lecture de plans",
+            "Réseaux d'eau",
+            "Normes sanitaires"
+        ],
+        "salaire_moyen": "2700 €"
+    },
+    "boulanger": {
+        "missions": [
+            "Préparer les pâtes",
+            "Cuire le pain et les viennoiseries",
+            "Gérer la production"
+        ],
+        "competences": [
+            "Pétrissage",
+            "Cuisson",
+            "Hygiène",
+            "Organisation",
+            "Créativité"
+        ],
+        "salaire_moyen": "2775 €"
+    },
+    "agent immobilier": {
+        "missions": [
+            "Vendre ou louer des biens",
+            "Accompagner les clients",
+            "Faire visiter les logements"
+        ],
+        "competences": [
+            "Négociation",
+            "Connaissance du marché",
+            "Juridique",
+            "Communication"
+        ],
+        "salaire_moyen": "2850 €"
+    },
+    "développeur mobile": {
+        "missions": [
+            "Développer des applications mobiles",
+            "Corriger les bugs",
+            "Mettre à jour les versions"
+        ],
+        "competences": [
+            "Flutter",
+            "Swift",
+            "Kotlin",
+            "UI mobile",
+            "APIs"
+        ],
+        "salaire_moyen": "2925 €"
+    },
+    "assistant RH": {
+        "missions": [
+            "Gérer les dossiers salariés",
+            "Publier les offres",
+            "Organiser les entretiens"
+        ],
+        "competences": [
+            "Droit du travail",
+            "Excel",
+            "Communication",
+            "Recrutement",
+            "Gestion de paie"
+        ],
+        "salaire_moyen": "3000 €"
+    },
+    "journaliste": {
+        "missions": [
+            "Enquêter et rédiger des articles",
+            "Vérifier les sources",
+            "Publier sur différents supports"
+        ],
+        "competences": [
+            "Rédaction",
+            "Curiosité",
+            "Éthique",
+            "Analyse",
+            "Polyvalence"
+        ],
+        "salaire_moyen": "3075 €"
+    },
+    "architecte": {
+        "missions": [
+            "Dessiner les plans",
+            "Superviser les travaux",
+            "Respecter les normes et budgets"
+        ],
+        "competences": [
+            "AutoCAD",
+            "Créativité",
+            "Connaissance technique",
+            "Maths",
+            "Normes"
+        ],
+        "salaire_moyen": "3150 €"
+    },
+    "pharmacien": {
+        "missions": [
+            "Conseiller les patients",
+            "Délivrer des médicaments",
+            "Gérer les stocks"
+        ],
+        "competences": [
+            "Connaissance des médicaments",
+            "Éthique",
+            "Relation client",
+            "Gestion"
+        ],
+        "salaire_moyen": "3225 €"
+    },
+    "consultant en stratégie": {
+        "missions": [
+            "Analyser les performances",
+            "Proposer des solutions",
+            "Accompagner les dirigeants"
+        ],
+        "competences": [
+            "Analyse",
+            "Business",
+            "Modélisation",
+            "Communication",
+            "Esprit critique"
+        ],
+        "salaire_moyen": "3300 €"
+    },
+    "marketing digital": {
+        "missions": [
+            "Concevoir des campagnes digitales",
+            "Analyser les performances web",
+            "Gérer les réseaux sociaux"
+        ],
+        "competences": [
+            "SEO",
+            "SEA",
+            "Google Analytics",
+            "Communication",
+            "Emailing"
+        ],
+        "salaire_moyen": "3060 €"
+    },
+    "web designer": {
+        "missions": [
+            "Créer l'interface graphique des sites web",
+            "Optimiser l'expérience utilisateur",
+            "Assurer la cohérence visuelle"
+        ],
+        "competences": [
+            "Figma",
+            "UX/UI",
+            "HTML/CSS",
+            "Photoshop",
+            "Créativité"
+        ],
+        "salaire_moyen": "3120 €"
+    },
+    "devops": {
+        "missions": [
+            "Automatiser les déploiements",
+            "Maintenir l'infrastructure cloud",
+            "Superviser les performances applicatives"
+        ],
+        "competences": [
+            "Docker",
+            "Kubernetes",
+            "CI/CD",
+            "Linux",
+            "AWS"
+        ],
+        "salaire_moyen": "3180 €"
+    },
+    "responsable logistique": {
+        "missions": [
+            "Gérer les flux de marchandises",
+            "Optimiser les stocks",
+            "Superviser les livraisons"
+        ],
+        "competences": [
+            "ERP",
+            "Organisation",
+            "Gestion de stock",
+            "Transport",
+            "Planification"
+        ],
+        "salaire_moyen": "3240 €"
+    },
+    "technicien support informatique": {
+        "missions": [
+            "Assister les utilisateurs",
+            "Diagnostiquer les pannes",
+            "Installer le matériel et logiciels"
+        ],
+        "competences": [
+            "Windows",
+            "Réseaux",
+            "Service client",
+            "Matériel",
+            "Bureautique"
+        ],
+        "salaire_moyen": "3300 €"
+    },
+    "analyste financier": {
+        "missions": [
+            "Évaluer les performances financières",
+            "Préparer des rapports financiers",
+            "Faire des prévisions budgétaires"
+        ],
+        "competences": [
+            "Excel",
+            "Modélisation financière",
+            "Comptabilité",
+            "Analyse de données",
+            "Power BI"
+        ],
+        "salaire_moyen": "3360 €"
+    },
+    "ergonome": {
+        "missions": [
+            "Améliorer les conditions de travail",
+            "Analyser les postes",
+            "Préconiser des aménagements"
+        ],
+        "competences": [
+            "Ergonomie",
+            "Santé au travail",
+            "Analyse",
+            "Prévention",
+            "Communication"
+        ],
+        "salaire_moyen": "3420 €"
+    },
+    "notaire": {
+        "missions": [
+            "Rédiger des actes juridiques",
+            "Conseiller les clients",
+            "Gérer les successions"
+        ],
+        "competences": [
+            "Droit",
+            "Fiscalité",
+            "Analyse juridique",
+            "Communication",
+            "Confidentialité"
+        ],
+        "salaire_moyen": "3480 €"
+    },
+    "sapeur-pompier": {
+        "missions": [
+            "Secourir les personnes",
+            "Éteindre les incendies",
+            "Intervenir en cas d'accident"
+        ],
+        "competences": [
+            "Secourisme",
+            "Endurance",
+            "Sang-froid",
+            "Travail d'équipe",
+            "Rigueur"
+        ],
+        "salaire_moyen": "3540 €"
+    },
+    "orthophoniste": {
+        "missions": [
+            "Évaluer les troubles du langage",
+            "Mettre en place des séances de rééducation",
+            "Suivre les progrès du patient"
+        ],
+        "competences": [
+            "Patience",
+            "Communication",
+            "Neurologie",
+            "Écoute",
+            "Méthodologie"
+        ],
+        "salaire_moyen": "3600 €"
+    },
+    "agent de sécurité": {
+        "missions": [
+            "Surveiller les lieux",
+            "Contrôler les accès",
+            "Prévenir les incidents"
+        ],
+        "competences": [
+            "Vigilance",
+            "Respect des consignes",
+            "Gestion de conflit",
+            "Observation",
+            "Réactivité"
+        ],
+        "salaire_moyen": "3660 €"
+    },
+    "coach sportif": {
+        "missions": [
+            "Encadrer des séances de sport",
+            "Suivre les progrès des clients",
+            "Adapter les programmes d'entraînement"
+        ],
+        "competences": [
+            "Motivation",
+            "Anatomie",
+            "Programme personnalisé",
+            "Nutrition",
+            "Écoute"
+        ],
+        "salaire_moyen": "3720 €"
+    },
+    "traducteur": {
+        "missions": [
+            "Traduire des textes techniques ou littéraires",
+            "Assurer la fidélité des contenus",
+            "Adapter au contexte culturel"
+        ],
+        "competences": [
+            "Langues",
+            "Rigueur",
+            "Grammaire",
+            "Adaptation",
+            "Recherche terminologique"
+        ],
+        "salaire_moyen": "3780 €"
+    },
+    "secrétaire médical": {
+        "missions": [
+            "Gérer les dossiers patients",
+            "Organiser les rendez-vous",
+            "Accueillir les patients"
+        ],
+        "competences": [
+            "Terminologie médicale",
+            "Accueil",
+            "Bureautique",
+            "Organisation",
+            "Confidentialité"
+        ],
+        "salaire_moyen": "3840 €"
+    },
+    "vendeur en magasin": {
+        "missions": [
+            "Accueillir les clients",
+            "Conseiller sur les produits",
+            "Encaisser les achats"
+        ],
+        "competences": [
+            "Relation client",
+            "Merchandising",
+            "Caisse",
+            "Présentation",
+            "Communication"
+        ],
+        "salaire_moyen": "3900 €"
+    },
+    "réceptionniste": {
+        "missions": [
+            "Accueillir les visiteurs",
+            "Gérer les appels et les réservations",
+            "Organiser l’agenda"
+        ],
+        "competences": [
+            "Communication",
+            "Organisation",
+            "Outils bureautiques",
+            "Multitâche",
+            "Politesse"
+        ],
+        "salaire_moyen": "3960 €"
+    },
+    "influenceur": {
+        "missions": [
+            "Créer du contenu",
+            "Collaborer avec des marques",
+            "Fidéliser une communauté"
+        ],
+        "competences": [
+            "Marketing",
+            "Création visuelle",
+            "Réseaux sociaux",
+            "Authenticité",
+            "Storytelling"
+        ],
+        "salaire_moyen": "4020 €"
+    },
+    "chauffeur livreur": {
+        "missions": [
+            "Livrer les commandes aux clients",
+            "Assurer le bon état des colis",
+            "Respecter les délais"
+        ],
+        "competences": [
+            "Conduite",
+            "Navigation GPS",
+            "Ponctualité",
+            "Endurance",
+            "Service client"
+        ],
+        "salaire_moyen": "4080 €"
+    },
+    "aide-soignant": {
+        "missions": [
+            "Aider aux soins quotidiens",
+            "Accompagner les patients",
+            "Observer l’état général"
+        ],
+        "competences": [
+            "Empathie",
+            "Hygiène",
+            "Écoute",
+            "Discrétion",
+            "Soins"
+        ],
+        "salaire_moyen": "4140 €"
+    }
+}
