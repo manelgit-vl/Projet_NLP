@@ -34,8 +34,8 @@ projet_NLP/
 │
 ├── chatbot/                # Scripts de chatbot (terminal et web)
 │   ├── chatbot_essai.py
-│   ├── chatbot_web.py
-│   └── chatbootnv.py
+│   ├── chatbot_essaiweb.py
+│   └── chatbootfinal.py
 │
 ├── preprocessing/          # Fonctions de nettoyage et préparation
 │   └── clean_text.py
@@ -100,5 +100,5 @@ streamlit run chatbot/chatbot_web.py
 ---
 
 ## 📌 Auteure
-**Ossama Louridi** 
+**Ossama Louridi** &
 **Manel Zerguit** 
